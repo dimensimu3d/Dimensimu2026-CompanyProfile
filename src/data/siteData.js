@@ -149,6 +149,9 @@ export const products = [
       "Replika koleksi terinspirasi karakter film dengan pendekatan 3D printing dan presentasi bergaya collectible.",
   },
 ];
+
+export const logoIcon = publicAsset("/images/Dimensimu_bg_trans.svg");
+
 export const aboutUsImage = [
   {
     id: 1,
