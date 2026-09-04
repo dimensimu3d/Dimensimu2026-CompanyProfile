@@ -37,7 +37,7 @@ export const products = [
   {
     id: 1,
     name: "IoT Smart Home",
-    price: "Custom / Project",
+    price: "Rp 120.000 - Rp 469.000",
     tag: "IoT",
     category: "Edukasi & Robotik",
     image: publicAsset("/images/products/iot-smart-home.webp"),
@@ -48,7 +48,7 @@ export const products = [
   {
     id: 2,
     name: "Paket Penjemur Otomatis",
-    price: "Custom / Project",
+    price: "Rp 44.900 - Rp 210.000",
     tag: "DIY Kit",
     category: "Edukasi & Robotik",
     image: publicAsset("/images/products/paket-penjemur-otomatis.webp"),
@@ -59,7 +59,7 @@ export const products = [
   {
     id: 3,
     name: "Mechanical Keyboard Button Fidget Keychain",
-    price: "Custom / PO",
+    price: "Rp 14.000 - Rp 63.350",
     tag: "Custom",
     category: "Aksesoris",
     image: publicAsset("/images/products/clicker-keycaps.webp"),
@@ -70,7 +70,7 @@ export const products = [
   {
     id: 4,
     name: "Convex Mirror Miniature Keychain",
-    price: "Ready / PO",
+    price: "Rp 24.900",
     tag: "Ready",
     category: "Aksesoris",
     image: publicAsset("/images/products/convex-mirror-closeup.webp"),
@@ -85,7 +85,7 @@ export const products = [
   {
     id: 5,
     name: "Mainan Artikulasi Dinosaurus",
-    price: "Ready / PO",
+    price: "Rp 28.000",
     tag: "Ready",
     category: "Mainan & Koleksi",
     image: publicAsset("/images/products/dino-artikulasi.webp"),
@@ -95,8 +95,8 @@ export const products = [
   },
   {
     id: 6,
-    name: "ARM ROBOT V1 — Kit DIY Arduino",
-    price: "Custom / PO",
+    name: "Case ARM ROBOT V1 — Kit DIY Arduino",
+    price: "Rp 70.000",
     tag: "DIY Kit",
     category: "Edukasi & Robotik",
     image: publicAsset("/images/products/arm-robot.webp"),
@@ -107,7 +107,7 @@ export const products = [
   {
     id: 7,
     name: "HOLDER RAKET TENIS DINDING",
-    price: "Custom / PO",
+    price: "Rp 35.000 - Rp 65.000",
     tag: "Custom Brand",
     category: "Fungsional",
     image: publicAsset("/images/products/holder-raket-tenis.webp"),
@@ -118,7 +118,7 @@ export const products = [
   {
     id: 8,
     name: "PHONE HOLDER NET PADEL & TENNIS",
-    price: "Custom / PO",
+    price: "Rp 72.000 - Rp 120.000",
     tag: "Content",
     category: "Fungsional",
     image: publicAsset("/images/products/phone-holder.webp"),
@@ -129,7 +129,7 @@ export const products = [
   {
     id: 9,
     name: "Lip Balm Keychain Holder",
-    price: "Custom / PO",
+    price: "Rp 24.000",
     tag: "Custom",
     category: "Aksesoris",
     image: publicAsset("/images/products/lip-balm.webp"),
@@ -140,7 +140,7 @@ export const products = [
   {
     id: 10,
     name: "One Wish Willow — Collectible Replica",
-    price: "Custom / PO",
+    price: "Rp 9.500",
     tag: "Collectible",
     category: "Figur & Koleksi",
     image: publicAsset("/images/products/one-wish.webp"),
