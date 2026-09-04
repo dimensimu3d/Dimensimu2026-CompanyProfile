@@ -11,6 +11,7 @@ export function Logo() {
       <span>
         <strong>Dimensimu 3D</strong>
         <small>3D PRINTING & CUSTOM SOLUTION</small>
+        <small>created by @yasif883</small>
       </span>
     </a>
   );
